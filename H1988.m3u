@@ -1,55 +1,307 @@
 #EXTM3U
-#EXTINF:-1,CANAL
-http://158.69.251.53:2300/live/6iRTLXDTu3/abdQWMc050/9.ts
-#EXTINF:-1,CANAL_CINEMA
-http://158.69.251.53:2300/live/6iRTLXDTu3/abdQWMc050/10.ts
-#EXTINF:-1,CANAL_SPORT
-http://158.69.251.53:2300/live/6iRTLXDTu3/abdQWMc050/11.ts
-#EXTINF:-1,CANAL_FAMILY
-http://158.69.251.53:2300/live/6iRTLXDTu3/abdQWMc050/12.ts
-#EXTINF:-1,CANAL_DECALE
-http://158.69.251.53:2300/live/6iRTLXDTu3/abdQWMc050/13.ts
-#EXTINF:-1,CANAL_SERIE
-http://158.69.251.53:2300/live/6iRTLXDTu3/abdQWMc050/14.ts
-#EXTINF:-1,CINE_PREMIER
-http://158.69.251.53:2300/live/6iRTLXDTu3/abdQWMc050/15.ts
-#EXTINF:-1,CINE_FRISSON
-http://158.69.251.53:2300/live/6iRTLXDTu3/abdQWMc050/16.ts
-#EXTINF:-1,CINE_EMOTION
-http://158.69.251.53:2300/live/6iRTLXDTu3/abdQWMc050/17.ts
-#EXTINF:-1,CINE_FAMIZ
-http://158.69.251.53:2300/live/6iRTLXDTu3/abdQWMc050/18.ts
-#EXTINF:-1,OCS_CHOC
-http://158.69.251.53:2300/live/6iRTLXDTu3/abdQWMc050/19.ts
-#EXTINF:-1,OCS_CITY
-http://158.69.251.53:2300/live/6iRTLXDTu3/abdQWMc050/20.ts
-#EXTINF:-1,OCS_GEANTS
-http://158.69.251.53:2300/live/6iRTLXDTu3/abdQWMc050/21.ts
-#EXTINF:-1,USHUAIA_TV
-http://158.69.251.53:2300/live/6iRTLXDTu3/abdQWMc050/22.ts
-#EXTINF:-1,NATIONAL_GEO
-http://158.69.251.53:2300/live/6iRTLXDTu3/abdQWMc050/23.ts
-#EXTINF:-1,NATGEO_WILD
-http://158.69.251.53:2300/live/6iRTLXDTu3/abdQWMc050/24.ts
-#EXTINF:-1,DISCOVERY
-http://158.69.251.53:2300/live/6iRTLXDTu3/abdQWMc050/25.ts
-#EXTINF:-1,DISCOVERY_SC
-http://158.69.251.53:2300/live/6iRTLXDTu3/abdQWMc050/26.ts
-#EXTINF:-1,PLANET
-http://158.69.251.53:2300/live/6iRTLXDTu3/abdQWMc050/27.ts
-#EXTINF:-1,PLANET_PLUS_AE
-http://158.69.251.53:2300/live/6iRTLXDTu3/abdQWMc050/28.ts
-#EXTINF:-1,VOYAGE
-http://158.69.251.53:2300/live/6iRTLXDTu3/abdQWMc050/29.ts
-#EXTINF:-1,beINSPORT1FR_HD
-http://158.69.251.53:2300/live/6iRTLXDTu3/abdQWMc050/30.ts
-#EXTINF:-1,beINSPORT2FR_HD
-http://158.69.251.53:2300/live/6iRTLXDTu3/abdQWMc050/31.ts
-#EXTINF:-1,beINSPORT3FR_HD
-http://158.69.251.53:2300/live/6iRTLXDTu3/abdQWMc050/32.ts
-#EXTINF:-1,INFOSPORT
-http://158.69.251.53:2300/live/6iRTLXDTu3/abdQWMc050/33.ts
-#EXTINF:-1,FOOT24
-http://158.69.251.53:2300/live/6iRTLXDTu3/abdQWMc050/34.ts
-#EXTINF:-1,LEQUIPE_21
-http://158.69.251.53:2300/live/6iRTLXDTu3/abdQWMc050/35.ts
+#EXTINF:-1,BeinSports_1_HD
+http://217.182.16.97:8000/live/50721502389222/50721502389222/9.ts
+#EXTINF:-1,BEINSPORTS-full1HD
+http://217.182.16.97:8000/live/50721502389222/50721502389222/15.ts
+#EXTINF:-1,BeinSports_2_HD
+http://217.182.16.97:8000/live/50721502389222/50721502389222/8.ts
+#EXTINF:-1,BEINSPORTS-full2HD
+http://217.182.16.97:8000/live/50721502389222/50721502389222/16.ts
+#EXTINF:-1,BeinSports_3_HD
+http://217.182.16.97:8000/live/50721502389222/50721502389222/7.ts
+#EXTINF:-1,BEINSPORTS-full3HD
+http://217.182.16.97:8000/live/50721502389222/50721502389222/17.ts
+#EXTINF:-1,BeinSports_4_HD
+http://217.182.16.97:8000/live/50721502389222/50721502389222/6.ts
+#EXTINF:-1,BeinSports_5_HD
+http://217.182.16.97:8000/live/50721502389222/50721502389222/5.ts
+#EXTINF:-1,BeinSports_6_HD
+http://217.182.16.97:8000/live/50721502389222/50721502389222/4.ts
+#EXTINF:-1,BeinSports_7_HD
+http://217.182.16.97:8000/live/50721502389222/50721502389222/3.ts
+#EXTINF:-1,BeinSports_8_HD
+http://217.182.16.97:8000/live/50721502389222/50721502389222/2.ts
+#EXTINF:-1,AD Sport3
+http://217.182.16.97:8000/live/50721502389222/50721502389222/14.ts
+#EXTINF:-1,AD Sport4
+http://217.182.16.97:8000/live/50721502389222/50721502389222/13.ts
+#EXTINF:-1,AD Sport5
+http://217.182.16.97:8000/live/50721502389222/50721502389222/12.ts
+#EXTINF:-1,AD Sport6
+http://217.182.16.97:8000/live/50721502389222/50721502389222/11.ts
+#EXTINF:-1,BeinSport.News
+http://gtv.tn:8000/live/12345678/23456789/308.ts
+#EXTINF:-1,BeinSport
+http://gtv.tn:8000/live/12345678/23456789/309.ts
+#EXTINF:-1,BeinSport.1HD
+http://gtv.tn:8000/live/12345678/23456789/165.ts
+#EXTINF:-1,BeinSport.2HD
+http://gtv.tn:8000/live/12345678/23456789/166.ts
+#EXTINF:-1,BeinSport.3HD
+http://gtv.tn:8000/live/12345678/23456789/167.ts
+#EXTINF:-1,BeinSport.4HD
+http://gtv.tn:8000/live/12345678/23456789/168.ts
+#EXTINF:-1,BeinSport.5HD
+http://gtv.tn:8000/live/12345678/23456789/169.ts
+#EXTINF:-1,BeinSport.6HD
+http://gtv.tn:8000/live/12345678/23456789/170.ts
+#EXTINF:-1,BeinSport.7HD
+http://gtv.tn:8000/live/12345678/23456789/171.ts
+#EXTINF:-1,BeinSport.8HD
+http://gtv.tn:8000/live/12345678/23456789/172.ts
+#EXTINF:-1,BeinSport.9HD
+http://gtv.tn:8000/live/12345678/23456789/330.ts
+#EXTINF:-1,Bein.Sport10HD
+http://gtv.tn:8000/live/12345678/23456789/261.ts
+#EXTINF:-1,BeinSport1-SD
+http://gtv.tn:8000/live/12345678/23456789/3753.ts
+#EXTINF:-1,BeinSport2-SD
+http://gtv.tn:8000/live/12345678/23456789/3746.ts
+#EXTINF:-1,BeinSport3-SD
+http://gtv.tn:8000/live/12345678/23456789/3747.ts
+#EXTINF:-1,BeinSport4-SD
+http://gtv.tn:8000/live/12345678/23456789/3754.ts
+#EXTINF:-1,BeinSport5-SD
+http://gtv.tn:8000/live/12345678/23456789/3755.ts
+#EXTINF:-1,BeinSport6-SD
+http://gtv.tn:8000/live/12345678/23456789/3756.ts
+#EXTINF:-1,BeinSport7-SD
+http://gtv.tn:8000/live/12345678/23456789/3757.ts
+#EXTINF:-1,BeinSport8-SD
+http://gtv.tn:8000/live/12345678/23456789/3758.ts
+#EXTINF:-1,BeinSport9-SD
+http://gtv.tn:8000/live/12345678/23456789/3759.ts
+#EXTINF:-1,BeinSport10-SD
+http://gtv.tn:8000/live/12345678/23456789/3760.ts
+#EXTINF:-1,OSN.YAHALA.HD
+http://gtv.tn:8000/live/12345678/23456789/395.ts
+#EXTINF:-1,OSN.YAHALA.DRAMA.HD
+http://gtv.tn:8000/live/12345678/23456789/897.ts
+#EXTINF:-1,OSN.Star.Movies.HD
+http://gtv.tn:8000/live/12345678/23456789/918.ts
+#EXTINF:-1,OSN.SHABAB
+http://gtv.tn:8000/live/12345678/23456789/394.ts
+#EXTINF:-1,OSN.PPV1
+http://gtv.tn:8000/live/12345678/23456789/384.ts
+#EXTINF:-1,OSN.PPV2
+http://gtv.tn:8000/live/12345678/23456789/385.ts
+#EXTINF:-1,OSN.PPV3
+http://gtv.tn:8000/live/12345678/23456789/895.ts
+#EXTINF:-1,OSN.ON.DEMAND.EXTRA.1HD
+http://gtv.tn:8000/live/12345678/23456789/900.ts
+#EXTINF:-1,OSN.ON.DEMAND.EXTRA.2HD
+http://gtv.tn:8000/live/12345678/23456789/899.ts
+#EXTINF:-1,OSN.ON.DEMAND.EXTRA.3HD
+http://gtv.tn:8000/live/12345678/23456789/898.ts
+#EXTINF:-1,OSN.Movies.Box.Office.2HD
+http://gtv.tn:8000/live/12345678/23456789/916.ts
+#EXTINF:-1,OSN.Movies.Box.Office.3HD
+http://gtv.tn:8000/live/12345678/23456789/915.ts
+#EXTINF:-1,OSN.Movies.Premiere.2
+http://gtv.tn:8000/live/12345678/23456789/906.ts
+#EXTINF:-1,OSN.Movies.HD.Premier
+http://gtv.tn:8000/live/12345678/23456789/397.ts
+#EXTINF:-1,OSN.Movies.Festival.HD
+http://gtv.tn:8000/live/12345678/23456789/908.ts
+#EXTINF:-1,OSN.Movies.Drama.HD
+http://gtv.tn:8000/live/12345678/23456789/909.ts
+#EXTINF:-1,OSN.Movies.Comedy.HD
+http://gtv.tn:8000/live/12345678/23456789/910.ts
+#EXTINF:-1,OSN.Movies.Comedy:2.HD
+http://gtv.tn:8000/live/12345678/23456789/911.ts
+#EXTINF:-1,OSN.MOVIES.COMEDY
+http://gtv.tn:8000/live/12345678/23456789/387.ts
+#EXTINF:-1,OSN.Movies.Action.HD
+http://gtv.tn:8000/live/12345678/23456789/912.ts
+#EXTINF:-1,OSN.Movies.Action.2HD
+http://gtv.tn:8000/live/12345678/23456789/913.ts
+#EXTINF:-1,OSN.Movies.2HD
+http://gtv.tn:8000/live/12345678/23456789/914.ts
+#EXTINF:-1,OSN.Movies
+http://gtv.tn:8000/live/12345678/23456789/389.ts
+#EXTINF:-1,OSN.Action
+http://gtv.tn:8000/live/12345678/23456789/390.ts
+#EXTINF:-1,OSN.FIRST.COMEDY
+http://gtv.tn:8000/live/12345678/23456789/388.ts
+#EXTINF:-1,OSN.MOVIES.KIDS
+http://gtv.tn:8000/live/12345678/23456789/391.ts
+#EXTINF:-1,OSN.CARTOON
+http://gtv.tn:8000/live/12345678/23456789/392.ts
+#EXTINF:-1,BEIN SPORTS News (Arabic)
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8300.ts
+#EXTINF:-1,BEIN SPORTS 1 HD (Arabic)
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6959.ts
+#EXTINF:-1,BEIN SPORTS 2 HD (Arabic)
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6960.ts
+#EXTINF:-1,BEIN SPORTS 3 HD (Arabic)
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6961.ts
+#EXTINF:-1,BEIN SPORTS 4 HD (Arabic)
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6962.ts
+#EXTINF:-1,BEIN SPORTS 5 HD (Arabic)
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6963.ts
+#EXTINF:-1,BEIN SPORTS 6 HD (Arabic)
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6964.ts
+#EXTINF:-1,BEIN SPORTS 7 HD (Arabic)
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6965.ts
+#EXTINF:-1,BEIN SPORTS 8 HD (Arabic)
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6966.ts
+#EXTINF:-1,BEIN SPORTS 9 HD (Arabic)
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6967.ts
+#EXTINF:-1,BEIN SPORTS 10 HD (Arabic)
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6968.ts
+#EXTINF:-1,BEIN SPORTS 11 (English)
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8299.ts
+#EXTINF:-1,BEIN SPORTS 12 (English)
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8298.ts
+#EXTINF:-1,BEIN SPORTS 13 (English)
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8297.ts
+#EXTINF:-1,BEIN SPORTS 14 (France)
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8296.ts
+#EXTINF:-1,BEIN SPORTS 15 (France)
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8295.ts
+#EXTINF:-1,BEIN SPORTS 16 (France)
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8294.ts
+#EXTINF:-1,BEIN SPORTS 1 FR
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8301.ts
+#EXTINF:-1,BEIN SPORTS 2 FR
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8302.ts
+#EXTINF:-1,BEIN SPORTS 3 FR
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8303.ts
+#EXTINF:-1,BEIN SPORTS Max 1
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/15383.ts
+#EXTINF:-1,BEIN SPORTS Max 2
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/15384.ts
+#EXTINF:-1,BEIN SPORTS Max 3
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/15385.ts
+#EXTINF:-1,OSN AD Sports 3 HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14134.ts
+#EXTINF:-1,OSN AD Sports 4 HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14135.ts
+#EXTINF:-1,OSN AD Sports 5 HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14136.ts
+#EXTINF:-1,OSN AD Sports 6 HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14137.ts
+#EXTINF:-1,OSN Al Safwa ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14133.ts
+#EXTINF:-1,OSN AL Yawm ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14138.ts
+#EXTINF:-1,OSN Animal Planet HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14139.ts
+#EXTINF:-1,OSN Box Office 1 HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14140.ts
+#EXTINF:-1,OSN Box Office 2 HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14141.ts
+#EXTINF:-1,OSN Box Office 3 HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14142.ts
+#EXTINF:-1,OSN Cinema 1 ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14143.ts
+#EXTINF:-1,OSN Cinema 2 ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14144.ts
+#EXTINF:-1,OSN Discovery Family HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14131.ts
+#EXTINF:-1,OSN Discovery HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14145.ts
+#EXTINF:-1,OSN Discovery IDX HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14130.ts
+#EXTINF:-1,OSN Discovery SC HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14146.ts
+#EXTINF:-1,OSN Disney Channel ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14147.ts
+#EXTINF:-1,OSN Disney Junior HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14129.ts
+#EXTINF:-1,OSN E! ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14128.ts
+#EXTINF:-1,OSN Fann ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14148.ts
+#EXTINF:-1,OSN Fatafeat ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14127.ts
+#EXTINF:-1,OSN Fight Network HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14149.ts
+#EXTINF:-1,OSN Fine Living HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14125.ts
+#EXTINF:-1,OSN First Comedy HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14109.ts
+#EXTINF:-1,OSN First HBO HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14110.ts
+#EXTINF:-1,OSN First HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14108.ts
+#EXTINF:-1,OSN Food Network ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14150.ts
+#EXTINF:-1,OSN Fox News HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14124.ts
+#EXTINF:-1,OSN H2 HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14122.ts
+#EXTINF:-1,OSN History HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14151.ts
+#EXTINF:-1,OSN ITV Choice ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14126.ts
+#EXTINF:-1,OSN Movies  +2 HD
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14092.ts
+#EXTINF:-1,OSN Movies Action  +2
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14094.ts
+#EXTINF:-1,OSN Movies Action HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14093.ts
+#EXTINF:-1,OSN Movies Comedy HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14101.ts
+#EXTINF:-1,OSN Movies Drama HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14097.ts
+#EXTINF:-1,OSN Movies Family HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14100.ts
+#EXTINF:-1,OSN Movies Festival HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14098.ts
+#EXTINF:-1,OSN Movies HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14091.ts
+#EXTINF:-1,OSN Movies Kids HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14099.ts
+#EXTINF:-1,OSN Movies Premiere  +2
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14096.ts
+#EXTINF:-1,OSN Movies Premiere HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14095.ts
+#EXTINF:-1,OSN Nat Geo People HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14153.ts
+#EXTINF:-1,OSN Nat Geo Wild HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14154.ts
+#EXTINF:-1,OSN National Geo HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14119.ts
+#EXTINF:-1,OSN News ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14123.ts
+#EXTINF:-1,OSN Outdoor HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14118.ts
+#EXTINF:-1,OSN Pro Action HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14117.ts
+#EXTINF:-1,OSN Sport Criket HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14120.ts
+#EXTINF:-1,OSN Sports 1 HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14113.ts
+#EXTINF:-1,OSN Sports 2 HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14114.ts
+#EXTINF:-1,OSN Sports 3 HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14115.ts
+#EXTINF:-1,OSN Sports 4 HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14116.ts
+#EXTINF:-1,OSN Star Gold HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14112.ts
+#EXTINF:-1,OSN Star Movies HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14103.ts
+#EXTINF:-1,OSN Star World HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14155.ts
+#EXTINF:-1,OSN Sundance HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14102.ts
+#EXTINF:-1,OSN Syfy HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14156.ts
+#EXTINF:-1,OSN TLC HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14121.ts
+#EXTINF:-1,OSN Travel Channel HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14132.ts
+#EXTINF:-1,OSN WWE HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14111.ts
+#EXTINF:-1,OSN Yahala Cinema HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14104.ts
+#EXTINF:-1,OSN Yahala Drama ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14105.ts
+#EXTINF:-1,OSN Yahala HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14106.ts
+#EXTINF:-1,OSN Yahala Shabab HD ARB
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14107.ts
+#EXTINF:-1,OSN: WWE HD
+http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9151.ts
