@@ -1,179 +1,608 @@
-#EXTM3U
-#EXTINF:-1,BEIN SPORTS News (Arabic)
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8300.ts
-#EXTINF:-1,BEIN SPORTS 1 HD (Arabic)
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6959.ts
-#EXTINF:-1,BEIN SPORTS 2 HD (Arabic)
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6960.ts
-#EXTINF:-1,BEIN SPORTS 3 HD (Arabic)
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6961.ts
-#EXTINF:-1,BEIN SPORTS 4 HD (Arabic)
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6962.ts
-#EXTINF:-1,BEIN SPORTS 5 HD (Arabic)
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6963.ts
-#EXTINF:-1,BEIN SPORTS 6 HD (Arabic)
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6964.ts
-#EXTINF:-1,BEIN SPORTS 7 HD (Arabic)
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6965.ts
-#EXTINF:-1,BEIN SPORTS 8 HD (Arabic)
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6966.ts
-#EXTINF:-1,BEIN SPORTS 9 HD (Arabic)
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6967.ts
-#EXTINF:-1,BEIN SPORTS 10 HD (Arabic)
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/6968.ts
-#EXTINF:-1,BEIN SPORTS 11 (English)
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8299.ts
-#EXTINF:-1,BEIN SPORTS 12 (English)
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8298.ts
-#EXTINF:-1,BEIN SPORTS 13 (English)
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8297.ts
-#EXTINF:-1,BEIN SPORTS 14 (France)
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8296.ts
-#EXTINF:-1,BEIN SPORTS 15 (France)
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8295.ts
-#EXTINF:-1,BEIN SPORTS 16 (France)
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8294.ts
-#EXTINF:-1,BEIN SPORTS 1 FR
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8301.ts
-#EXTINF:-1,BEIN SPORTS 2 FR
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8302.ts
-#EXTINF:-1,BEIN SPORTS 3 FR
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/8303.ts
-#EXTINF:-1,BEIN SPORTS Max 1
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/15383.ts
-#EXTINF:-1,BEIN SPORTS Max 2
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/15384.ts
-#EXTINF:-1,BEIN SPORTS Max 3
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/15385.ts
-#EXTINF:-1,OSN AD Sports 3 HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14134.ts
-#EXTINF:-1,OSN AD Sports 4 HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14135.ts
-#EXTINF:-1,OSN AD Sports 5 HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14136.ts
-#EXTINF:-1,OSN AD Sports 6 HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14137.ts
-#EXTINF:-1,OSN Al Safwa ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14133.ts
-#EXTINF:-1,OSN AL Yawm ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14138.ts
-#EXTINF:-1,OSN Animal Planet HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14139.ts
-#EXTINF:-1,OSN Box Office 1 HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14140.ts
-#EXTINF:-1,OSN Box Office 2 HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14141.ts
-#EXTINF:-1,OSN Box Office 3 HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14142.ts
-#EXTINF:-1,OSN Cinema 1 ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14143.ts
-#EXTINF:-1,OSN Cinema 2 ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14144.ts
-#EXTINF:-1,OSN Discovery Family HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14131.ts
-#EXTINF:-1,OSN Discovery HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14145.ts
-#EXTINF:-1,OSN Discovery IDX HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14130.ts
-#EXTINF:-1,OSN Discovery SC HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14146.ts
-#EXTINF:-1,OSN Disney Channel ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14147.ts
-#EXTINF:-1,OSN Disney Junior HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14129.ts
-#EXTINF:-1,OSN E! ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14128.ts
-#EXTINF:-1,OSN Fann ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14148.ts
-#EXTINF:-1,OSN Fatafeat ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14127.ts
-#EXTINF:-1,OSN Fight Network HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14149.ts
-#EXTINF:-1,OSN Fine Living HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14125.ts
-#EXTINF:-1,OSN First Comedy HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14109.ts
-#EXTINF:-1,OSN First HBO HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14110.ts
-#EXTINF:-1,OSN First HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14108.ts
-#EXTINF:-1,OSN Food Network ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14150.ts
-#EXTINF:-1,OSN Fox News HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14124.ts
-#EXTINF:-1,OSN H2 HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14122.ts
-#EXTINF:-1,OSN History HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14151.ts
-#EXTINF:-1,OSN ITV Choice ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14126.ts
-#EXTINF:-1,OSN Movies  +2 HD
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14092.ts
-#EXTINF:-1,OSN Movies Action  +2
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14094.ts
-#EXTINF:-1,OSN Movies Action HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14093.ts
-#EXTINF:-1,OSN Movies Comedy HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14101.ts
-#EXTINF:-1,OSN Movies Drama HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14097.ts
-#EXTINF:-1,OSN Movies Family HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14100.ts
-#EXTINF:-1,OSN Movies Festival HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14098.ts
-#EXTINF:-1,OSN Movies HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14091.ts
-#EXTINF:-1,OSN Movies Kids HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14099.ts
-#EXTINF:-1,OSN Movies Premiere  +2
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14096.ts
-#EXTINF:-1,OSN Movies Premiere HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14095.ts
-#EXTINF:-1,OSN Nat Geo People HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14153.ts
-#EXTINF:-1,OSN Nat Geo Wild HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14154.ts
-#EXTINF:-1,OSN National Geo HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14119.ts
-#EXTINF:-1,OSN News ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14123.ts
-#EXTINF:-1,OSN Outdoor HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14118.ts
-#EXTINF:-1,OSN Pro Action HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14117.ts
-#EXTINF:-1,OSN Sport Criket HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14120.ts
-#EXTINF:-1,OSN Sports 1 HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14113.ts
-#EXTINF:-1,OSN Sports 2 HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14114.ts
-#EXTINF:-1,OSN Sports 3 HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14115.ts
-#EXTINF:-1,OSN Sports 4 HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14116.ts
-#EXTINF:-1,OSN Star Gold HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14112.ts
-#EXTINF:-1,OSN Star Movies HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14103.ts
-#EXTINF:-1,OSN Star World HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14155.ts
-#EXTINF:-1,OSN Sundance HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14102.ts
-#EXTINF:-1,OSN Syfy HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14156.ts
-#EXTINF:-1,OSN TLC HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14121.ts
-#EXTINF:-1,OSN Travel Channel HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14132.ts
-#EXTINF:-1,OSN WWE HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14111.ts
-#EXTINF:-1,OSN Yahala Cinema HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14104.ts
-#EXTINF:-1,OSN Yahala Drama ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14105.ts
-#EXTINF:-1,OSN Yahala HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14106.ts
-#EXTINF:-1,OSN Yahala Shabab HD ARB
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/14107.ts
-#EXTINF:-1,OSN: WWE HD
-http://xtream.swiftiptv.com:6500/live/q0z01FyoIg/YlNLLYkecl/9151.ts
+#EXTINF:-1,------ Arabic ----------
+http://185.2.83.209:8000/live/123456/123456/158.ts
+#EXTINF:-1,AR: Mtv Lebanon
+http://185.2.83.209:8000/live/123456/123456/22.ts
+#EXTINF:-1,AR: Mtv Lebanon 2
+http://185.2.83.209:8000/live/123456/123456/2253.ts
+#EXTINF:-1,AR: Mtv Lebanon 3
+http://185.2.83.209:8000/live/123456/123456/2254.ts
+#EXTINF:-1,AR: Mtv Lebanon 4
+http://185.2.83.209:8000/live/123456/123456/2255.ts
+#EXTINF:-1,AR: LDC
+http://185.2.83.209:8000/live/123456/123456/24.ts
+#EXTINF:-1,AR: LDC 2
+http://185.2.83.209:8000/live/123456/123456/2256.ts
+#EXTINF:-1,AR: LDC 3
+http://185.2.83.209:8000/live/123456/123456/2257.ts
+#EXTINF:-1,AR: LDC 4
+http://185.2.83.209:8000/live/123456/123456/2258.ts
+#EXTINF:-1,AR: OTV
+http://185.2.83.209:8000/live/123456/123456/26.ts
+#EXTINF:-1,AR: Future
+http://185.2.83.209:8000/live/123456/123456/113.ts
+#EXTINF:-1,AR: LBC
+http://185.2.83.209:8000/live/123456/123456/88.ts
+#EXTINF:-1,AR: Nbn Lebanon
+http://185.2.83.209:8000/live/123456/123456/136.ts
+#EXTINF:-1,AR: Aljadeed
+http://185.2.83.209:8000/live/123456/123456/23.ts
+#EXTINF:-1,AR: Aljadeed 2
+http://185.2.83.209:8000/live/123456/123456/2259.ts
+#EXTINF:-1,AR: Aljadeed 3
+http://185.2.83.209:8000/live/123456/123456/2260.ts
+#EXTINF:-1,AR: Aljadeed 4
+http://185.2.83.209:8000/live/123456/123456/2261.ts
+#EXTINF:-1,AR: Lebanon tv
+http://185.2.83.209:8000/live/123456/123456/102.ts
+#EXTINF:-1,AR: Liwan HD
+http://185.2.83.209:8000/live/123456/123456/2302.ts
+#EXTINF:-1,AR: ALaan TV
+http://185.2.83.209:8000/live/123456/123456/2211.ts
+#EXTINF:-1,AR: Manar tv
+http://185.2.83.209:8000/live/123456/123456/54.ts
+#EXTINF:-1,AR: OnTV
+http://185.2.83.209:8000/live/123456/123456/21.ts
+#EXTINF:-1,AR: Sama tv
+http://185.2.83.209:8000/live/123456/123456/2327.ts
+#EXTINF:-1,AR: Salam TV
+http://185.2.83.209:8000/live/123456/123456/2320.ts
+#EXTINF:-1,AR: Syria 1
+http://185.2.83.209:8000/live/123456/123456/13.ts
+#EXTINF:-1,AR: Syria TV
+http://185.2.83.209:8000/live/123456/123456/14.ts
+#EXTINF:-1,AR: Syrian Drama
+http://185.2.83.209:8000/live/123456/123456/52.ts
+#EXTINF:-1,AR: Syria Lkhbaria
+http://185.2.83.209:8000/live/123456/123456/142.ts
+#EXTINF:-1,AR: Almostakbal
+http://185.2.83.209:8000/live/123456/123456/2276.ts
+#EXTINF:-1,AR: Quran 3azem
+http://185.2.83.209:8000/live/123456/123456/2209.ts
+#EXTINF:-1,AR: Al Fath
+http://185.2.83.209:8000/live/123456/123456/2287.ts
+#EXTINF:-1,AR: Majd
+http://185.2.83.209:8000/live/123456/123456/68.ts
+#EXTINF:-1,AR: Al Majd 3
+http://185.2.83.209:8000/live/123456/123456/2246.ts
+#EXTINF:-1,AR: Mecca
+http://185.2.83.209:8000/live/123456/123456/2278.ts
+#EXTINF:-1,AR: Eslam China
+http://185.2.83.209:8000/live/123456/123456/2269.ts
+#EXTINF:-1,AR: Kurd Cihan HD
+http://185.2.83.209:8000/live/123456/123456/2291.ts
+#EXTINF:-1,AR: Fann- Ahayat
+http://185.2.83.209:8000/live/123456/123456/2218.ts
+#EXTINF:-1,AR: Al Gameela
+http://185.2.83.209:8000/live/123456/123456/2324.ts
+#EXTINF:-1,AR: Al Rahma
+http://185.2.83.209:8000/live/123456/123456/2326.ts
+#EXTINF:-1,AR: Sat 7
+http://185.2.83.209:8000/live/123456/123456/2334.ts
+#EXTINF:-1,AR: Sumaria TV
+http://185.2.83.209:8000/live/123456/123456/2340.ts
+#EXTINF:-1,AR: Tratel
+http://185.2.83.209:8000/live/123456/123456/2301.ts
+#EXTINF:-1,AR: Zad HD
+http://185.2.83.209:8000/live/123456/123456/2214.ts
+#EXTINF:-1,AR: Aeo Geraphic
+http://185.2.83.209:8000/live/123456/123456/2303.ts
+#EXTINF:-1,AR: Almanal TV
+http://185.2.83.209:8000/live/123456/123456/2343.ts
+#EXTINF:-1,AR: Almaher
+http://185.2.83.209:8000/live/123456/123456/2310.ts
+#EXTINF:-1,AR: Kif HD
+http://185.2.83.209:8000/live/123456/123456/2309.ts
+#EXTINF:-1,AR: Ayat Elqran
+http://185.2.83.209:8000/live/123456/123456/2213.ts
+#EXTINF:-1,AR: Al Resala
+http://185.2.83.209:8000/live/123456/123456/2311.ts
+#EXTINF:-1,AR: Majd Kids HD
+http://185.2.83.209:8000/live/123456/123456/131.ts
+#EXTINF:-1,AR: Toyor Aljanah
+http://185.2.83.209:8000/live/123456/123456/129.ts
+#EXTINF:-1,AR: Al rwad
+http://185.2.83.209:8000/live/123456/123456/2281.ts
+#EXTINF:-1,AR: Spacetoon
+http://185.2.83.209:8000/live/123456/123456/114.ts
+#EXTINF:-1,AR: SemSem
+http://185.2.83.209:8000/live/123456/123456/2315.ts
+#EXTINF:-1,AR: Baraem
+http://185.2.83.209:8000/live/123456/123456/95.ts
+#EXTINF:-1,AR: Karameesh
+http://185.2.83.209:8000/live/123456/123456/96.ts
+#EXTINF:-1,AR: Al Masriya
+http://185.2.83.209:8000/live/123456/123456/110.ts
+#EXTINF:-1,AR: Al Thania
+http://185.2.83.209:8000/live/123456/123456/97.ts
+#EXTINF:-1,AR: Art Aflam 1
+http://185.2.83.209:8000/live/123456/123456/105.ts
+#EXTINF:-1,AR: Art Aflam 2
+http://185.2.83.209:8000/live/123456/123456/104.ts
+#EXTINF:-1,AR: Art Hekayat
+http://185.2.83.209:8000/live/123456/123456/101.ts
+#EXTINF:-1,AR: Art Hekayat 2
+http://185.2.83.209:8000/live/123456/123456/100.ts
+#EXTINF:-1,AR: Art Cinema
+http://185.2.83.209:8000/live/123456/123456/103.ts
+#EXTINF:-1,AR: Afrah TV
+http://185.2.83.209:8000/live/123456/123456/86.ts
+#EXTINF:-1,AR: Sha3beyat
+http://185.2.83.209:8000/live/123456/123456/118.ts
+#EXTINF:-1,AR: Hob Fee EL Moled
+http://185.2.83.209:8000/live/123456/123456/2328.ts
+#EXTINF:-1,AR: Hawa Com
+http://185.2.83.209:8000/live/123456/123456/2332.ts
+#EXTINF:-1,AR: Music plus
+http://185.2.83.209:8000/live/123456/123456/2330.ts
+#EXTINF:-1,AR: Syphonia
+http://185.2.83.209:8000/live/123456/123456/2338.ts
+#EXTINF:-1,AR: Musawa TV
+http://185.2.83.209:8000/live/123456/123456/2263.ts
+#EXTINF:-1,AR: Maspero Zaman
+http://185.2.83.209:8000/live/123456/123456/2283.ts
+#EXTINF:-1,AR: Music Al Haneen
+http://185.2.83.209:8000/live/123456/123456/2199.ts
+#EXTINF:-1,AR: One Music TV
+http://185.2.83.209:8000/live/123456/123456/59.ts
+#EXTINF:-1,AR: Bolika
+http://185.2.83.209:8000/live/123456/123456/53.ts
+#EXTINF:-1,AR: Mazika
+http://185.2.83.209:8000/live/123456/123456/89.ts
+#EXTINF:-1,AR: 4Shbab
+http://185.2.83.209:8000/live/123456/123456/61.ts
+#EXTINF:-1,AR: Wanasa
+http://185.2.83.209:8000/live/123456/123456/126.ts
+#EXTINF:-1,AR: Melody Classic
+http://185.2.83.209:8000/live/123456/123456/65.ts
+#EXTINF:-1,AR: Mbc 1
+http://185.2.83.209:8000/live/123456/123456/50.ts
+#EXTINF:-1,AR: Mbc 1 HD
+http://185.2.83.209:8000/live/123456/123456/2274.ts
+#EXTINF:-1,AR: Mbc 2
+http://185.2.83.209:8000/live/123456/123456/49.ts
+#EXTINF:-1,AR: Mbc 2 HD
+http://185.2.83.209:8000/live/123456/123456/2272.ts
+#EXTINF:-1,AR: Mbc 3
+http://185.2.83.209:8000/live/123456/123456/48.ts
+#EXTINF:-1,AR: Mbc 4
+http://185.2.83.209:8000/live/123456/123456/47.ts
+#EXTINF:-1,AR: Mbc 4 HD
+http://185.2.83.209:8000/live/123456/123456/2271.ts
+#EXTINF:-1,AR: Mbc Masr
+http://185.2.83.209:8000/live/123456/123456/46.ts
+#EXTINF:-1,AR: Mbc Masr 2
+http://185.2.83.209:8000/live/123456/123456/45.ts
+#EXTINF:-1,AR: Mbc Drama
+http://185.2.83.209:8000/live/123456/123456/42.ts
+#EXTINF:-1,AR: Mbc Drama HD
+http://185.2.83.209:8000/live/123456/123456/2273.ts
+#EXTINF:-1,AR: Mbc Action
+http://185.2.83.209:8000/live/123456/123456/44.ts
+#EXTINF:-1,AR: Mbc Action HD
+http://185.2.83.209:8000/live/123456/123456/2270.ts
+#EXTINF:-1,AR: Mbc Max
+http://185.2.83.209:8000/live/123456/123456/43.ts
+#EXTINF:-1,AR: Mbc Bollywood
+http://185.2.83.209:8000/live/123456/123456/41.ts
+#EXTINF:-1,AR: Mbc Sport 1
+http://185.2.83.209:8000/live/123456/123456/2435.ts
+#EXTINF:-1,AR: Mbc Sport 2
+http://185.2.83.209:8000/live/123456/123456/2436.ts
+#EXTINF:-1,AR: Mbc Sport 3
+http://185.2.83.209:8000/live/123456/123456/2437.ts
+#EXTINF:-1,AR: ON Sport
+http://185.2.83.209:8000/live/123456/123456/2242.ts
+#EXTINF:-1,AR: Al Ahly TV
+http://185.2.83.209:8000/live/123456/123456/2322.ts
+#EXTINF:-1,AR: DMC Sports
+http://185.2.83.209:8000/live/123456/123456/2243.ts
+#EXTINF:-1,AR: Dmc Drama
+http://185.2.83.209:8000/live/123456/123456/2262.ts
+#EXTINF:-1,AR: DMC HD
+http://185.2.83.209:8000/live/123456/123456/34.ts
+#EXTINF:-1,AR: Nile Drama
+http://185.2.83.209:8000/live/123456/123456/76.ts
+#EXTINF:-1,AR: Nile Comedy
+http://185.2.83.209:8000/live/123456/123456/75.ts
+#EXTINF:-1,AR: Nile Cinma
+http://185.2.83.209:8000/live/123456/123456/74.ts
+#EXTINF:-1,AR: Nile Life
+http://185.2.83.209:8000/live/123456/123456/62.ts
+#EXTINF:-1,AR: Nile News
+http://185.2.83.209:8000/live/123456/123456/38.ts
+#EXTINF:-1,AR: Nile sport
+http://185.2.83.209:8000/live/123456/123456/73.ts
+#EXTINF:-1,AR: Nile tv
+http://185.2.83.209:8000/live/123456/123456/27.ts
+#EXTINF:-1,AR: Nile Blue TV
+http://185.2.83.209:8000/live/123456/123456/2227.ts
+#EXTINF:-1,AR: Nline Sport tv
+http://185.2.83.209:8000/live/123456/123456/2244.ts
+#EXTINF:-1,AR: Panorama Film
+http://185.2.83.209:8000/live/123456/123456/98.ts
+#EXTINF:-1,AR: Panorama Comedy
+http://185.2.83.209:8000/live/123456/123456/155.ts
+#EXTINF:-1,AR: Panorama Drama
+http://185.2.83.209:8000/live/123456/123456/77.ts
+#EXTINF:-1,AR: Panorama Drama 2
+http://185.2.83.209:8000/live/123456/123456/25.ts
+#EXTINF:-1,AR: Cbc
+http://185.2.83.209:8000/live/123456/123456/90.ts
+#EXTINF:-1,AR: Cbc Extra
+http://185.2.83.209:8000/live/123456/123456/92.ts
+#EXTINF:-1,AR: Cbc Drama
+http://185.2.83.209:8000/live/123456/123456/91.ts
+#EXTINF:-1,AR: Rotana Music
+http://185.2.83.209:8000/live/123456/123456/79.ts
+#EXTINF:-1,AR: Rotana Clip
+http://185.2.83.209:8000/live/123456/123456/83.ts
+#EXTINF:-1,AR: Rotana Masriya
+http://185.2.83.209:8000/live/123456/123456/80.ts
+#EXTINF:-1,AR: Rotana Classic
+http://185.2.83.209:8000/live/123456/123456/82.ts
+#EXTINF:-1,AR: Rotana Cinma
+http://185.2.83.209:8000/live/123456/123456/81.ts
+#EXTINF:-1,AR: Rotana Khalijiah
+http://185.2.83.209:8000/live/123456/123456/72.ts
+#EXTINF:-1,AR: El Mehwer
+http://185.2.83.209:8000/live/123456/123456/2342.ts
+#EXTINF:-1,AR: Dream 1
+http://185.2.83.209:8000/live/123456/123456/94.ts
+#EXTINF:-1,AR: Dream 2
+http://185.2.83.209:8000/live/123456/123456/93.ts
+#EXTINF:-1,AR: Al Nahar
+http://185.2.83.209:8000/live/123456/123456/154.ts
+#EXTINF:-1,AR: Al Nahar Drama
+http://185.2.83.209:8000/live/123456/123456/152.ts
+#EXTINF:-1,AR: Al Nahar Al Youm
+http://185.2.83.209:8000/live/123456/123456/151.ts
+#EXTINF:-1,AR: Al Nahar Cinma
+http://185.2.83.209:8000/live/123456/123456/71.ts
+#EXTINF:-1,AR: Sada ALbalad HD
+http://185.2.83.209:8000/live/123456/123456/51.ts
+#EXTINF:-1,AR: Sada Albalad Drama
+http://185.2.83.209:8000/live/123456/123456/116.ts
+#EXTINF:-1,AR: Abu Dhabi Drama
+http://185.2.83.209:8000/live/123456/123456/55.ts
+#EXTINF:-1,AR: Al Emarat tv HD
+http://185.2.83.209:8000/live/123456/123456/130.ts
+#EXTINF:-1,AR: Alhayat 1
+http://185.2.83.209:8000/live/123456/123456/109.ts
+#EXTINF:-1,AR: Alhayat 2
+http://185.2.83.209:8000/live/123456/123456/111.ts
+#EXTINF:-1,AR: Alhayat Cinma
+http://185.2.83.209:8000/live/123456/123456/144.ts
+#EXTINF:-1,AR: Alhayat Series
+http://185.2.83.209:8000/live/123456/123456/108.ts
+#EXTINF:-1,AR: Alhayat We Alnas
+http://185.2.83.209:8000/live/123456/123456/2200.ts
+#EXTINF:-1,AR: Alkahera wal nas
+http://185.2.83.209:8000/live/123456/123456/141.ts
+#EXTINF:-1,AR: Alkahera wal nas 2
+http://185.2.83.209:8000/live/123456/123456/30.ts
+#EXTINF:-1,AR: TEN
+http://185.2.83.209:8000/live/123456/123456/87.ts
+#EXTINF:-1,AR: Star Cinema 1
+http://185.2.83.209:8000/live/123456/123456/99.ts
+#EXTINF:-1,AR: Star Cinema 2
+http://185.2.83.209:8000/live/123456/123456/78.ts
+#EXTINF:-1,AR: Cinema Pro
+http://185.2.83.209:8000/live/123456/123456/2331.ts
+#EXTINF:-1,AR: kol Alnas
+http://185.2.83.209:8000/live/123456/123456/2319.ts
+#EXTINF:-1,AR: Masraweya Aflam
+http://185.2.83.209:8000/live/123456/123456/2325.ts
+#EXTINF:-1,AR: Cima Alibaba
+http://185.2.83.209:8000/live/123456/123456/119.ts
+#EXTINF:-1,AR: LCD Movies
+http://185.2.83.209:8000/live/123456/123456/124.ts
+#EXTINF:-1,AR: Kurd max TV
+http://185.2.83.209:8000/live/123456/123456/2245.ts
+#EXTINF:-1,AR: Time Taxi
+http://185.2.83.209:8000/live/123456/123456/120.ts
+#EXTINF:-1,AR: Time Film
+http://185.2.83.209:8000/live/123456/123456/112.ts
+#EXTINF:-1,AR: Time Comedy
+http://185.2.83.209:8000/live/123456/123456/150.ts
+#EXTINF:-1,AR: Time Cinema
+http://185.2.83.209:8000/live/123456/123456/115.ts
+#EXTINF:-1,AR: Sada ALbalad 2 HD
+http://185.2.83.209:8000/live/123456/123456/156.ts
+#EXTINF:-1,AR: Cairo Drama
+http://185.2.83.209:8000/live/123456/123456/85.ts
+#EXTINF:-1,AR: Cairo Cinema
+http://185.2.83.209:8000/live/123456/123456/84.ts
+#EXTINF:-1,AR: Jordan Sport
+http://185.2.83.209:8000/live/123456/123456/153.ts
+#EXTINF:-1,AR: Cinma
+http://185.2.83.209:8000/live/123456/123456/57.ts
+#EXTINF:-1,AR: TokTok Cinma
+http://185.2.83.209:8000/live/123456/123456/64.ts
+#EXTINF:-1,AR: Nour Music 2
+http://185.2.83.209:8000/live/123456/123456/2228.ts
+#EXTINF:-1,AR: Nour Elsharq
+http://185.2.83.209:8000/live/123456/123456/2229.ts
+#EXTINF:-1,AR: Nour Mariam
+http://185.2.83.209:8000/live/123456/123456/2230.ts
+#EXTINF:-1,AR: Suryoyo
+http://185.2.83.209:8000/live/123456/123456/2222.ts
+#EXTINF:-1,AR: Nour Kids
+http://185.2.83.209:8000/live/123456/123456/2225.ts
+#EXTINF:-1,AR: Nour elkuds
+http://185.2.83.209:8000/live/123456/123456/2226.ts
+#EXTINF:-1,AR: Miracle1
+http://185.2.83.209:8000/live/123456/123456/2231.ts
+#EXTINF:-1,AR: Malakoot TV
+http://185.2.83.209:8000/live/123456/123456/2217.ts
+#EXTINF:-1,AR: Saudi 2 HD
+http://185.2.83.209:8000/live/123456/123456/2212.ts
+#EXTINF:-1,AR: Saudi Modern
+http://185.2.83.209:8000/live/123456/123456/2216.ts
+#EXTINF:-1,AR: Saudi Sport HD
+http://185.2.83.209:8000/live/123456/123456/2215.ts
+#EXTINF:-1,AR: Sudan TV
+http://185.2.83.209:8000/live/123456/123456/157.ts
+#EXTINF:-1,AR: Sudan 2
+http://185.2.83.209:8000/live/123456/123456/2312.ts
+#EXTINF:-1,AR: Sudan 3
+http://185.2.83.209:8000/live/123456/123456/2313.ts
+#EXTINF:-1,AR: Sudan 4
+http://185.2.83.209:8000/live/123456/123456/2314.ts
+#EXTINF:-1,AR: Sudan 24
+http://185.2.83.209:8000/live/123456/123456/2288.ts
+#EXTINF:-1,AR: Alshrook
+http://185.2.83.209:8000/live/123456/123456/2284.ts
+#EXTINF:-1,AR: Tayba
+http://185.2.83.209:8000/live/123456/123456/2289.ts
+#EXTINF:-1,AR: Eslam Ayat
+http://185.2.83.209:8000/live/123456/123456/2304.ts
+#EXTINF:-1,AR: Tafawuq
+http://185.2.83.209:8000/live/123456/123456/2294.ts
+#EXTINF:-1,AR: Nasamat TV
+http://185.2.83.209:8000/live/123456/123456/2292.ts
+#EXTINF:-1,AR: Ashorooq tv
+http://185.2.83.209:8000/live/123456/123456/2290.ts
+#EXTINF:-1,AR: Almanal
+http://185.2.83.209:8000/live/123456/123456/2293.ts
+#EXTINF:-1,AR: Kaslla tv
+http://185.2.83.209:8000/live/123456/123456/2241.ts
+#EXTINF:-1,AR: San3a HD
+http://185.2.83.209:8000/live/123456/123456/2306.ts
+#EXTINF:-1,AR: Kwait 1
+http://185.2.83.209:8000/live/123456/123456/2220.ts
+#EXTINF:-1,AR: Kwait Sport Plus
+http://185.2.83.209:8000/live/123456/123456/2237.ts
+#EXTINF:-1,AR: Kwait Sport
+http://185.2.83.209:8000/live/123456/123456/2233.ts
+#EXTINF:-1,AR: Kwait Plus
+http://185.2.83.209:8000/live/123456/123456/2236.ts
+#EXTINF:-1,AR: Kwait Al Majlis
+http://185.2.83.209:8000/live/123456/123456/2238.ts
+#EXTINF:-1,AR: Kwait Ethraa
+http://185.2.83.209:8000/live/123456/123456/2234.ts
+#EXTINF:-1,AR: Kwait Arabe
+http://185.2.83.209:8000/live/123456/123456/2235.ts
+#EXTINF:-1,AR: Libya News
+http://185.2.83.209:8000/live/123456/123456/2300.ts
+#EXTINF:-1,AR: Libya TV
+http://185.2.83.209:8000/live/123456/123456/2296.ts
+#EXTINF:-1,AR: Libya One
+http://185.2.83.209:8000/live/123456/123456/2299.ts
+#EXTINF:-1,AR: Libya Rasmia
+http://185.2.83.209:8000/live/123456/123456/2250.ts
+#EXTINF:-1,AR: Libya HD
+http://185.2.83.209:8000/live/123456/123456/2249.ts
+#EXTINF:-1,AR: Libya Al Nabaa tv
+http://185.2.83.209:8000/live/123456/123456/2295.ts
+#EXTINF:-1,AR: Libya Alhadath
+http://185.2.83.209:8000/live/123456/123456/2298.ts
+#EXTINF:-1,AR: Libya Marah
+http://185.2.83.209:8000/live/123456/123456/2251.ts
+#EXTINF:-1,AR: Sharjah Kabla
+http://185.2.83.209:8000/live/123456/123456/2252.ts
+#EXTINF:-1,AR: Libya 24
+http://185.2.83.209:8000/live/123456/123456/2248.ts
+#EXTINF:-1,AR: Libya 218
+http://185.2.83.209:8000/live/123456/123456/2297.ts
+#EXTINF:-1,AR: Funoon
+http://185.2.83.209:8000/live/123456/123456/127.ts
+#EXTINF:-1,AR: Nat Geoa
+http://185.2.83.209:8000/live/123456/123456/31.ts
+#EXTINF:-1,AR: Oman
+http://185.2.83.209:8000/live/123456/123456/2240.ts
+#EXTINF:-1,AR: Oman sport
+http://185.2.83.209:8000/live/123456/123456/2239.ts
+#EXTINF:-1,AR: Sama Dubai
+http://185.2.83.209:8000/live/123456/123456/29.ts
+#EXTINF:-1,AR: Abu Dhabi Emarat
+http://185.2.83.209:8000/live/123456/123456/39.ts
+#EXTINF:-1,AR: Dubai Aloula
+http://185.2.83.209:8000/live/123456/123456/40.ts
+#EXTINF:-1,AR: Dubai Sport
+http://185.2.83.209:8000/live/123456/123456/70.ts
+#EXTINF:-1,AR: Dubai one
+http://185.2.83.209:8000/live/123456/123456/148.ts
+#EXTINF:-1,AR: Dubai Drama
+http://185.2.83.209:8000/live/123456/123456/145.ts
+#EXTINF:-1,AR: Dubai Zaman
+http://185.2.83.209:8000/live/123456/123456/146.ts
+#EXTINF:-1,AR: Noor Dubai tv
+http://185.2.83.209:8000/live/123456/123456/147.ts
+#EXTINF:-1,AR: jordan
+http://185.2.83.209:8000/live/123456/123456/2264.ts
+#EXTINF:-1,AR: Alhadeth Elnabowy
+http://185.2.83.209:8000/live/123456/123456/2308.ts
+#EXTINF:-1,AR: Digtal School
+http://185.2.83.209:8000/live/123456/123456/2307.ts
+#EXTINF:-1,AR: Kurd rudaw HD
+http://185.2.83.209:8000/live/123456/123456/2221.ts
+#EXTINF:-1,AR: Nara7
+http://185.2.83.209:8000/live/123456/123456/2223.ts
+#EXTINF:-1,AR: El sharqia HD
+http://185.2.83.209:8000/live/123456/123456/2219.ts
+#EXTINF:-1,AR: Beladi
+http://185.2.83.209:8000/live/123456/123456/2197.ts
+#EXTINF:-1,AR: Sharqiya
+http://185.2.83.209:8000/live/123456/123456/133.ts
+#EXTINF:-1,AR: Beur Tv
+http://185.2.83.209:8000/live/123456/123456/2280.ts
+#EXTINF:-1,AR: Al Mawsleya TV
+http://185.2.83.209:8000/live/123456/123456/2286.ts
+#EXTINF:-1,AR: Afak
+http://185.2.83.209:8000/live/123456/123456/2285.ts
+#EXTINF:-1,AR: Iraq Anb
+http://185.2.83.209:8000/live/123456/123456/2266.ts
+#EXTINF:-1,AR: Iraq Dijla
+http://185.2.83.209:8000/live/123456/123456/2265.ts
+#EXTINF:-1,AR: Iraq Al Fallujah
+http://185.2.83.209:8000/live/123456/123456/2268.ts
+#EXTINF:-1,AR: Iraq Alghadeer TV
+http://185.2.83.209:8000/live/123456/123456/2267.ts
+#EXTINF:-1,AR: Iraq AlForat TV
+http://185.2.83.209:8000/live/123456/123456/2277.ts
+#EXTINF:-1,AR: Iraq Al Ahd 1
+http://185.2.83.209:8000/live/123456/123456/2275.ts
+#EXTINF:-1,AR: National Geographic
+http://185.2.83.209:8000/live/123456/123456/56.ts
+#EXTINF:-1,AR: Fujera
+http://185.2.83.209:8000/live/123456/123456/2336.ts
+#EXTINF:-1,AR: Hona baghdad
+http://185.2.83.209:8000/live/123456/123456/2341.ts
+#EXTINF:-1,AR: iraq tv
+http://185.2.83.209:8000/live/123456/123456/2337.ts
+#EXTINF:-1,AR: Ishtar tv
+http://185.2.83.209:8000/live/123456/123456/2335.ts
+#EXTINF:-1,AR: Al Nada
+http://185.2.83.209:8000/live/123456/123456/2323.ts
+#EXTINF:-1,AR: Al Rasheed
+http://185.2.83.209:8000/live/123456/123456/69.ts
+#EXTINF:-1,AR: Baynounah tv HD
+http://185.2.83.209:8000/live/123456/123456/2203.ts
+#EXTINF:-1,AR: Medl 1
+http://185.2.83.209:8000/live/123456/123456/2201.ts
+#EXTINF:-1,AR: Al Aoula Maroc
+http://185.2.83.209:8000/live/123456/123456/140.ts
+#EXTINF:-1,AR: 2m maroc
+http://185.2.83.209:8000/live/123456/123456/135.ts
+#EXTINF:-1,AR: Arriadia Maroc
+http://185.2.83.209:8000/live/123456/123456/32.ts
+#EXTINF:-1,AR: Almaghribia
+http://185.2.83.209:8000/live/123456/123456/139.ts
+#EXTINF:-1,AR: Tamazight Maroc
+http://185.2.83.209:8000/live/123456/123456/106.ts
+#EXTINF:-1,AR: Assadisa Maroc
+http://185.2.83.209:8000/live/123456/123456/67.ts
+#EXTINF:-1,AR: Marrco News
+http://185.2.83.209:8000/live/123456/123456/137.ts
+#EXTINF:-1,AR: Nessma
+http://185.2.83.209:8000/live/123456/123456/28.ts
+#EXTINF:-1,AR: Zaytoona
+http://185.2.83.209:8000/live/123456/123456/17.ts
+#EXTINF:-1,AR: Al Djazairia
+http://185.2.83.209:8000/live/123456/123456/63.ts
+#EXTINF:-1,AR: Tunssia 1
+http://185.2.83.209:8000/live/123456/123456/15.ts
+#EXTINF:-1,AR: Tunssia 2
+http://185.2.83.209:8000/live/123456/123456/16.ts
+#EXTINF:-1,AR: Al Mostakbal
+http://185.2.83.209:8000/live/123456/123456/143.ts
+#EXTINF:-1,AR: Ettounsia
+http://185.2.83.209:8000/live/123456/123456/132.ts
+#EXTINF:-1,AR: Tunis First
+http://185.2.83.209:8000/live/123456/123456/19.ts
+#EXTINF:-1,AR: Attassia TV
+http://185.2.83.209:8000/live/123456/123456/2247.ts
+#EXTINF:-1,AR: Elhiwar Ettounsia
+http://185.2.83.209:8000/live/123456/123456/60.ts
+#EXTINF:-1,AR: TNN Tunisia
+http://185.2.83.209:8000/live/123456/123456/134.ts
+#EXTINF:-1,AR: M Tunis
+http://185.2.83.209:8000/live/123456/123456/20.ts
+#EXTINF:-1,AR: Echorouk tv
+http://185.2.83.209:8000/live/123456/123456/138.ts
+#EXTINF:-1,AR: Hannibal
+http://185.2.83.209:8000/live/123456/123456/107.ts
+#EXTINF:-1,AR: Alsaeedah
+http://185.2.83.209:8000/live/123456/123456/2204.ts
+#EXTINF:-1,AR: Al Magharibia
+http://185.2.83.209:8000/live/123456/123456/2196.ts
+#EXTINF:-1,AR: Elheddaf
+http://185.2.83.209:8000/live/123456/123456/2329.ts
+#EXTINF:-1,AR: Canal Algerie
+http://185.2.83.209:8000/live/123456/123456/122.ts
+#EXTINF:-1,AR: kbc algeria
+http://185.2.83.209:8000/live/123456/123456/123.ts
+#EXTINF:-1,AR: Algeria 3
+http://185.2.83.209:8000/live/123456/123456/121.ts
+#EXTINF:-1,AR: Alnahar algeria
+http://185.2.83.209:8000/live/123456/123456/125.ts
+#EXTINF:-1,AR: Tamazigh 4
+http://185.2.83.209:8000/live/123456/123456/2190.ts
+#EXTINF:-1,AR: Samira Tv
+http://185.2.83.209:8000/live/123456/123456/2189.ts
+#EXTINF:-1,AR: Numedia News
+http://185.2.83.209:8000/live/123456/123456/2188.ts
+#EXTINF:-1,AR: NaharLaki
+http://185.2.83.209:8000/live/123456/123456/2187.ts
+#EXTINF:-1,AR: ENTV
+http://185.2.83.209:8000/live/123456/123456/2186.ts
+#EXTINF:-1,AR: El Bilad News
+http://185.2.83.209:8000/live/123456/123456/2191.ts
+#EXTINF:-1,AR: Echorouk News
+http://185.2.83.209:8000/live/123456/123456/2193.ts
+#EXTINF:-1,AR: Echorouk Benna
+http://185.2.83.209:8000/live/123456/123456/2192.ts
+#EXTINF:-1,AR: Dzair News
+http://185.2.83.209:8000/live/123456/123456/2194.ts
+#EXTINF:-1,AR: Planet Turk
+http://185.2.83.209:8000/live/123456/123456/2195.ts
+#EXTINF:-1,AR: Cartoon Network
+http://185.2.83.209:8000/live/123456/123456/117.ts
+#EXTINF:-1,AR: palestine
+http://185.2.83.209:8000/live/123456/123456/128.ts
+#EXTINF:-1,AR: ALqudis
+http://185.2.83.209:8000/live/123456/123456/149.ts
+#EXTINF:-1,AR: ALShqrqiya News
+http://185.2.83.209:8000/live/123456/123456/2339.ts
+#EXTINF:-1,AR: Aqsa TV (Palestine)
+http://185.2.83.209:8000/live/123456/123456/2321.ts
+#EXTINF:-1,AR: Palestine Mubasher
+http://185.2.83.209:8000/live/123456/123456/2317.ts
+#EXTINF:-1,AR: Palestine Today
+http://185.2.83.209:8000/live/123456/123456/2318.ts
+#EXTINF:-1,AR: Palestine TV
+http://185.2.83.209:8000/live/123456/123456/2316.ts
+#EXTINF:-1,AR: Almada
+http://185.2.83.209:8000/live/123456/123456/2202.ts
+#EXTINF:-1,AR: Cct Arabic
+http://185.2.83.209:8000/live/123456/123456/2224.ts
+#EXTINF:-1,AR: TRT Arapca
+http://185.2.83.209:8000/live/123456/123456/2232.ts
+#EXTINF:-1,AR: Alarabiya
+http://185.2.83.209:8000/live/123456/123456/37.ts
+#EXTINF:-1,AR: Al Mayaden
+http://185.2.83.209:8000/live/123456/123456/58.ts
+#EXTINF:-1,AR: Orient News
+http://185.2.83.209:8000/live/123456/123456/2210.ts
+#EXTINF:-1,AR: BBC News
+http://185.2.83.209:8000/live/123456/123456/66.ts
+#EXTINF:-1,AR: Aljazera News
+http://185.2.83.209:8000/live/123456/123456/36.ts
+#EXTINF:-1,AR: Mekameleen
+http://185.2.83.209:8000/live/123456/123456/2279.ts
+#EXTINF:-1,AR: EL Sharq tv
+http://185.2.83.209:8000/live/123456/123456/2282.ts
+#EXTINF:-1,AR: Aljazera Mobashir
+http://185.2.83.209:8000/live/123456/123456/33.ts
+#EXTINF:-1,AR: Sky News HD
+http://185.2.83.209:8000/live/123456/123456/18.ts
+#EXTINF:-1,AR: AL Arabia Hadath
+http://185.2.83.209:8000/live/123456/123456/35.ts
+#EXTINF:-1,AR: Russiya Al Yaum
+http://185.2.83.209:8000/live/123456/123456/2198.ts
+#EXTINF:-1,AR: TV5 News
+http://185.2.83.209:8000/live/123456/123456/2205.ts
+#EXTINF:-1,AR: France24 News
+http://185.2.83.209:8000/live/123456/123456/2206.ts
+#EXTINF:-1,AR: Sharqia News
+http://185.2.83.209:8000/live/123456/123456/2333.ts
